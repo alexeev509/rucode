@@ -6,7 +6,7 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 
 
-public class A {
+public class A1 {
 
     static int[] mass;
     static int countOfElemenets;
