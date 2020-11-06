@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 
-public class Saw2 {
+public class E1 {
     private static int size;
     private static int[] mass;
     private static String[] a;
